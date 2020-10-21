@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ehfazrezwan/Guess-The-Number-Game-JS">
+  <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     Project 1 of the PFJ course. Super simple and something I'm definitely beyond - but I want to get into the habit of having everything I do on GitHub - so here goes.
     <br />
-    <a href="https://github.com/ehfazrezwan/Guess-The-Number-Game-JS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://guessnumber-093cpwj.web.app/">View Demo</a>
     ·
-    <a href="https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/issues">Report Bug</a>
+    <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/issues">Request Feature</a>
+    <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,7 +102,7 @@ Open index.html from any browser, and play the game!
 
 ## Roadmap
 
-See the [open issues](https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -126,9 +126,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ehfaz Rezwan - [@ehfazrezwan](https://www.linkedin.com/in/ehfaz-rezwan/) - ehfaz.rezwan@gmail.com
+Shadman Sahil - [@shadman_sahil](https://www.linkedin.com/in/shadman-sahil-chowdhury/) - chowdhuryshadman52@gmail.com
 
-Project Link: [https://github.com/ehfazrezwan/Guess-The-Number-Game-JS](https://github.com/ehfazrezwan/Guess-The-Number-Game-JS)
+Project Link: [https://github.com/ShadmanSahil/Guess-The-Number-Game-JS](https://github.com/ShadmanSahil/Guess-The-Number-Game-JS)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -139,16 +139,16 @@ Project Link: [https://github.com/ehfazrezwan/Guess-The-Number-Game-JS](https://
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/Guess-The-Number-Game-JS
-[contributors-url]: https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/Guess-The-Number-Game-JS
-[forks-url]: https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/ehfazrezwan/Guess-The-Number-Game-JS
-[stars-url]: https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/Guess-The-Number-Game-JS
-[issues-url]: https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/issues
-[license-shield]: https://img.shields.io/github/license/ehfazrezwan/Guess-The-Number-Game-JS
-[license-url]: https://github.com/ehfazrezwan/Guess-The-Number-Game-JS/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ShadmanSahil/Guess-The-Number-Game-JS
+[contributors-url]: https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ShadmanSahil/Guess-The-Number-Game-JS
+[forks-url]: https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/network/members
+[stars-shield]: https://img.shields.io/github/stars/ShadmanSahil/Guess-The-Number-Game-JS
+[stars-url]: https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ShadmanSahil/Guess-The-Number-Game-JS
+[issues-url]: https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/issues
+[license-shield]: https://img.shields.io/github/license/ShadmanSahil/Guess-The-Number-Game-JS
+[license-url]: https://github.com/ShadmanSahil/Guess-The-Number-Game-JS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ehfazrezwan
+[linkedin-url]: https://linkedin.com/in/shadman-sahil-chowdhury
 [product-screenshot]: images/app.png
