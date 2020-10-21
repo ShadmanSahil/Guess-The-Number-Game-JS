@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Shadman Sahil - [@shadman_sahil](https://www.linkedin.com/in/shadman-sahil-chowdhury/) - chowdhuryshadman52@gmail.com
+Shadman Sahil - (https://www.linkedin.com/in/shadmansahil/) - chowdhuryshadman52@gmail.com
 
 Project Link: [https://github.com/ShadmanSahil/Guess-The-Number-Game-JS](https://github.com/ShadmanSahil/Guess-The-Number-Game-JS)
 
