@@ -26,13 +26,13 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO
 <br />
 <p align="center">
   <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
+-->
   <h3 align="center">Guess The Number</h3>
 
   <p align="center">
@@ -68,7 +68,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+<!-- [![Product Name Screen Shot][product-screenshot]]() -->
 
 A simple game built using JS. The script generates a random number and the user attempts to guess this number. The game tells the user if their guess is too high, too low, or correct, and also shows the history of their guesses.
 
