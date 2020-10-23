@@ -36,7 +36,7 @@
   <h3 align="center">Guess The Number</h3>
 
   <p align="center">
-    Project 1 of the PFJ course. Super simple and something I'm definitely beyond - but I want to get into the habit of having everything I do on GitHub - so here goes.
+    This is project 1 from the Profit With JavaScript course conducted by Clever Programmers Naz and Qazi. 
     <br />
     <a href="https://github.com/ShadmanSahil/Guess-The-Number-Game-JS"><strong>Explore the docs »</strong></a>
     <br />
