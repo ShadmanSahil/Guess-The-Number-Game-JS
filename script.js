@@ -7,8 +7,8 @@
  * (done) TODO: Complete the showYouWon, showNumberAbove, showNumberBelow
  * (done) TODO: Use the showYouWon... functions within displayResult to display the correct dialog
  * (done) TODO: Save the guess history in a variable called guess
- * TODO: Display the guess history using displayHistory() function
- * TODO: Use the initGame() function to restart the game
+ * (done) TODO: Display the guess history using displayHistory() function
+ * (done) TODO: Use the initGame() function to restart the game
  */
 
 // Variable to store the list of guesses
@@ -28,6 +28,7 @@ function playGame(){
   var numberGuess = document.getElementById("number-guess").value;
   displayResult(numberGuess);
   saveGuessHistory(numberGuess);
+  displayHistory();
 }
 
 /**
@@ -56,6 +57,10 @@ function playGame(){
 
 function initGame(){
   // *CODE GOES BELOW HERE *
+  correctNumber = getRandomNumber(); 
+  guesses=[];
+  resetResultContent();
+  document.getElementById("history").innerHTML = "";
 }
 
 /**
@@ -81,7 +86,6 @@ function getRandomNumber(){
  */
 function saveGuessHistory(guess) {
   guesses.push(guess);
-  displayHistory();
 }
 
 /**
@@ -93,17 +97,16 @@ function saveGuessHistory(guess) {
  * HINT: use while loop and string concatentation to create a list of guesses
  */
 function displayHistory() {
-  let index; // TODO
+  let index = guesses.length-1; // TODO
   let list = "<ul class='list-group'>";
-  for (let i=guesses.length-1; i>=0; i-=1){
-    li=guesses[i];
-    list+=li;
-    list += '</ul>';
-    document.getElementById("history").innerHTML = list;
-  };
-}
-
-
+  while(index>=0){
+    list+="<li class='list-group-item'>";
+    list+="You guessed " + guesses[index] + "</li>";
+    index-=1;
+  }
+  list+="</ul>";
+  document.getElementById("history").innerHTML = list;
+  }
 
 /**
  * Retrieve the dialog based on if the guess is wrong or correct
